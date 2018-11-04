@@ -1,0 +1,2 @@
+# equinoxdigital
+Theme name: eskwela
